@@ -37,7 +37,7 @@ cb = Button(text="change color", command=click)
 cb.pack(pady=15)
 
 label = Label(window,
-              text= "Perform basic calculations.",
+              text= "To perform basic calculations.",
               font= ('Arial',20,"bold"),
               fg = "#4b1e1e",
               bd=10,
